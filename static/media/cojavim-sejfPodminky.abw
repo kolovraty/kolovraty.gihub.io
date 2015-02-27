@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="39" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.0" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.99.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Wed Jan 28 10:57:23 2015
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">Vaclav Klecanda</m>
+<m key="dc.date">Wed Jan 28 10:57:23 2015
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="4" edit-time="1045" last-saved="1422439043" uid="9fa7a33e-a6d1-11e4-8707-929e6c1040b6">
+<version id="4" started="1422438482" uid="0e3f8b20-a6d4-11e4-8707-929e6c1040b6" auto="0" top-xid="31"/>
+</history>
+<styles>
+<s type="P" name="Heading 1" basedon="Normal" followedby="Normal" props="keep-with-next:1; margin-top:22pt; font-weight:bold; margin-bottom:3pt; font-family:Liberation Sans; font-size:17pt"/>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+</styles>
+<lists>
+<l id="1000" parentid="0" type="5" start-value="0" list-delim="%L" list-decimal="NULL"/>
+</lists>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="18" props="page-margin-footer:0.5in; page-margin-header:0.5in">
+<p style="Heading 1" xid="19" props="text-align:left"><c props="text-transform:none">Podmínky pro zařazení města do platební aplikace sejf</c></p>
+<p style="Normal" xid="14" props="text-align:left; dom-dir:ltr"></p>
+<p style="Normal" xid="28" props="text-align:left; dom-dir:ltr"><c>Sejf </c><c props="font-family:Times New Roman; font-size:11pt; color:1f497d; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">(</c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">http://www.sejf.cz/) </c><c>je </c><c props="font-family:Times New Roman; text-decoration:none; color:000000; font-size:12pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">online platforma pro placení různých služeb jako jízdenky MHD, parkovné, apod. Stručně z webu firmy:</c></p>
+<p style="Normal" xid="39" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:italic; lang:en-US"></c><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:italic; lang:en-US">"</c><c props="font-style:italic">Sejf ti ve tvém mobilu umožní jednoduše a rychle zakoupit jízdenku na MHD nebo zaplatit za parkování z pohodlí tvého auta, je užitečný všude tam, kde normálně potřebuješ drobné a často se ti stane, že je prostě u  sebe zrovna nemáš.”</c></p>
+<frame strux-image-dataid="image0" xid="36" props="tight-wrap:0; frame-col-ypos:0.675694in; bot-style:none; wrap-mode:wrapped-to-right; frame-type:image; frame-width:0.8125in; frame-height:0.6146in; frame-pref-page:0; top-style:none; position-to:column-above-text; frame-col-xpos:0.000000in; right-style:none; left-style:none">
+</frame><p style="Normal" xid="29" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; font-size:11.000000pt; font-variant:normal; color:#1f497d; font-weight:normal; font-style:normal; text-transform:none"></c></p>
+<p style="Normal" xid="38" props="text-align:left; dom-dir:ltr"><c props="font-family:Times New Roman; font-size:11.000000pt; font-variant:normal; color:#1f497d; font-weight:normal; font-style:normal; text-transform:none"></c><c props="font-family:Times New Roman; font-size:11.000000pt; font-variant:normal; color:#1f497d; font-weight:normal; font-style:normal; text-transform:none">Za sejf.cz je třeba (pominu-li soutěž a dále uzavření Smlouvy o spolupráci v rámci projektu elektronická jízdenka / elektronické parkovné):</c></p>
+<p level="1" listid="1000" parentid="0" style="Normal" xid="3" props="widows:auto; list-delim:%L; list-decimal:NULL; list-style:Bullet List; orphans:auto; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; text-align:start; field-font:Liberation Sans"><c props="font-family:Times New Roman; font-stretch:normal; font-size:7.000000pt; list-tag:1001; font-variant:normal; color:#1f497d; font-weight:normal; font-style:normal; text-transform:none"></c><field type="list_label" xid="15" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:#1f497d; font-variant:normal; text-decoration:none; font-size:11.000000pt; height:0in; list-style:None; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:#1f497d; font-variant:normal; text-decoration:none; font-size:11.000000pt; height:0in; list-style:None; font-stretch:normal">	</c><c props="font-weight:normal; font-variant:normal; color:#1f497d; text-transform:none; font-size:11.000000pt; font-style:normal">Nastavení uživatelského / admin rozhraní pro provozovatele / reklamačních formulářů (dle vizuálního stylu města / dopravce) včetně nastavení jednotlivých přístupových / uživatelských práv, školení obsluhy</c></p>
+<p level="1" listid="1000" style="Normal" xid="4" props="widows:auto; list-delim:%L; list-decimal:NULL; list-style:Bullet List; orphans:auto; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; text-align:start; field-font:Liberation Sans"><c props="font-size:11.000000pt; list-tag:1002; font-variant:normal; color:#1f497d; font-weight:normal; font-style:normal; text-transform:none"></c><field type="list_label" xid="16" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:#1f497d; font-variant:normal; text-decoration:none; font-size:11.000000pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:#1f497d; font-variant:normal; text-decoration:none; font-size:11.000000pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c><c props="font-weight:normal; font-variant:normal; color:#1f497d; text-transform:none; font-size:11.000000pt; font-style:normal">Instalace aplikace pro kontrolu elektronických jízdenek / parkovného do mobilních zařízení vč. školení obsluhy (straznici a revizori)</c></p>
+<p level="1" listid="1000" style="Normal" xid="5" props="widows:auto; list-delim:%L; list-decimal:NULL; list-style:Bullet List; orphans:auto; start-value:0; margin-left:0.5000in; text-indent:-0.3000in; text-align:start; field-font:Liberation Sans"><c props="font-size:11.000000pt; list-tag:1003; font-variant:normal; color:#1f497d; font-weight:normal; font-style:normal; text-transform:none"></c><field type="list_label" xid="17" props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:#1f497d; font-variant:normal; text-decoration:none; font-size:11.000000pt; height:0in; list-style:Bullet List; font-stretch:normal"></field><c props="width:0in; font-family:Times New Roman; display:inline; font-style:normal; font-weight:normal; bgcolor:transparent; lang:en-US; text-position:normal; text-transform:none; homogeneous:1; color:#1f497d; font-variant:normal; text-decoration:none; font-size:11.000000pt; height:0in; list-style:Bullet List; font-stretch:normal">	</c><c props="font-weight:normal; font-variant:normal; color:#1f497d; text-transform:none; font-size:11.000000pt; font-style:normal">Otázka nastavení merchantského účtu města / dopravce</c></p>
+<p style="Normal" xid="6" props="text-align:start; text-indent:0px; orphans:auto; widows:auto"><c props="font-family:Times New Roman; font-size:11.000000pt; font-variant:normal; color:#1f497d; font-weight:normal; font-style:normal; text-transform:none"> </c></p>
+<p style="Normal" xid="7" props="text-align:start; text-indent:0px; orphans:auto; widows:auto"><c props="font-family:Times New Roman; font-size:11.000000pt; font-variant:normal; color:#1f497d; font-weight:normal; font-style:normal; text-transform:none">Za implementaci SEJFu v prostředí města si neúčtujeme žádné vstupní poplatky. </c><c props="font-family:Times New Roman; font-size:11.000000pt; font-variant:normal; color:#1f497d; font-weight:bold; font-style:normal; text-transform:none">Odměna je v % z konečné ceny elektronické jízdenky / parkovného realizované prostřednictvím SEJFu (v řádech procent, do 10%)</c><c props="font-family:Times New Roman; font-size:11.000000pt; font-variant:normal; color:#1f497d; font-weight:normal; font-style:normal; text-transform:none"> a zahrnuje jak platební tak ticketingové řešení.</c></p>
+<p style="Normal" xid="8" props="text-align:start; text-indent:0px; orphans:auto; widows:auto"><c props="font-family:Times New Roman; font-size:11.000000pt; font-variant:normal; color:#1f497d; font-weight:normal; font-style:normal; text-transform:none"> </c></p>
+<p style="Normal" xid="9" props="text-align:start; text-indent:0px; orphans:auto; widows:auto"><c props="font-family:Times New Roman; font-size:11.000000pt; font-variant:normal; color:#1f497d; font-weight:normal; font-style:normal; text-transform:none">V rámci času se tedy jedná především o nastavení na straně města / dopravce,  my potřebujeme kromě výše uvedených informací např. znát tarify jízdného / parkovného v SEJFu apod. Doporučujeme, aby cena jízdného / parkovného v SEJFu byla shodná s cenou papírové jízdenky / parkovného.</c></p>
+<p style="Normal" xid="10" props="text-align:start; text-indent:0px; orphans:auto; widows:auto"><c props="font-family:Times New Roman; font-size:11.000000pt; font-variant:normal; color:#1f497d; font-weight:normal; font-style:normal; text-transform:none"></c></p>
+<p style="Normal" xid="12" props="text-align:start; text-indent:0px; orphans:auto; widows:auto"><c props="font-family:Times New Roman; font-size:12.000000pt; font-variant:normal; color:#222222; font-weight:normal; font-style:normal; text-transform:none"></c></p>
+<p style="Normal" xid="13" props="text-align:start; text-indent:0px; orphans:auto; widows:auto"><c props="font-family:Times New Roman; font-size:12.000000pt; font-variant:normal; color:#222222; font-weight:normal; font-style:normal; text-transform:none"></c></p>
+</section>
+<data>
+<d name="image0" mime-type="image/png" base64="yes">
+iVBORw0KGgoAAAANSUhEUgAAAE4AAAA7CAYAAADVRbxvAAAAGXRFWHRTb2Z0d2FyZQBBZG9i
+ZSBJbWFnZVJlYWR5ccllPAAAAyFpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tl
+dCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1l
+dGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUu
+NS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpS
+REYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgt
+bnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8v
+bnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNv
+bS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEu
+MC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9w
+IENDIChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDowQzVCNzA2ODk0OEUx
+MUUzOTlBN0ExMzI4MDM3REJCOSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDowQzVCNzA2
+OTk0OEUxMUUzOTlBN0ExMzI4MDM3REJCOSI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjpp
+bnN0YW5jZUlEPSJ4bXAuaWlkOjBDNUI3MDY2OTQ4RTExRTM5OUE3QTEzMjgwMzdEQkI5IiBz
+dFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjBDNUI3MDY3OTQ4RTExRTM5OUE3QTEzMjgwMzdE
+QkI5Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hw
+YWNrZXQgZW5kPSJyIj8+JxFwNwAAEUtJREFUeNrsXAl0jFcbnj2TTDJZJkJQW+xkITSOkp5a
+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
+</d>
+</data>
+</abiword>
