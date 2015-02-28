@@ -1,9 +1,10 @@
 ---
 layout: blog
-category: akce
-splash: "http://placehold.it/1600x500"
+category:  AKCE
+splash: "http
 title: Akce na zimaku
-tags: bezpecnost, zimnistadion
+tags: bezpecnost,sport,kultura
+description: pokusny clanek v amci zkouseni
 ---
 
 
